@@ -1,0 +1,11 @@
+*/node_modules
+.env
+.json
+.txt
+.xml
+.gitignore
+.gitattributes
+*/vendor
+.gitkeep
+*/database
+
